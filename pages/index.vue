@@ -1,5 +1,5 @@
 <template>
   <div>
-    <NuxtPage/>
+    Hello TdA
   </div>
 </template>
